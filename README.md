@@ -1,4 +1,8 @@
 # maths-game-js-
+
+<h1>A Simple Math Multiple Game by using HTML,CSS and JAVASCRIPT<h1>
+  
+  
 ![Screenshot (457)](https://user-images.githubusercontent.com/94373786/180591864-76ce71ff-bab3-4941-b35c-20b7aeb76799.png)
 ![Screenshot (464)](https://user-images.githubusercontent.com/94373786/180591866-b5767927-4574-4712-beaa-106c42b36b31.png)
 
