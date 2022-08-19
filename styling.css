@@ -100,7 +100,7 @@ html{
 }
 #startreset{
     width: 78px;
-    padding: 6px;
+    padding: 5px;
     background-color:rgba(255,255,255,0.5);
     margin: 0 auto;
     border-radius: 3px;
@@ -121,7 +121,7 @@ html{
 }
 #timeremaining{
     width: 152px;
-    padding: 6px;
+    padding: 5px;
     position: absolute;
     top: 395px;
     left: 400px;
