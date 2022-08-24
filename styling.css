@@ -150,3 +150,12 @@ html{
     z-index: 2;
     display: none;
 }
+@media (min-width:368){
+    #timeremaining{
+        width: 130px;
+    }
+    #startreset{
+        width: 50px;
+    }
+
+}
